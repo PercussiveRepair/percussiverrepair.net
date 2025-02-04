@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech_leadership on PercussiveRepair.net</title>
+    <link>https://percussiverepair.net/tags/tech_leadership/</link>
+    <description>Recent content in tech_leadership on PercussiveRepair.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 27 Apr 2020 13:46:25 +0000</lastBuildDate><atom:link href="https://percussiverepair.net/tags/tech_leadership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recording for Posterity</title>
+      <link>https://percussiverepair.net/posts/2020-04-27-recording-for-posterity/</link>
+      <pubDate>Mon, 27 Apr 2020 13:46:25 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2020-04-27-recording-for-posterity/</guid>
+      <description>This is a simple mantra I’ve used in many teams I worked in or led over the years:</description>
+    </item>
+    
+    <item>
+      <title>How to be a Good Tech Lead</title>
+      <link>https://percussiverepair.net/posts/2015-10-24-how-to-be-a-good-tech-lead/</link>
+      <pubDate>Sat, 24 Oct 2015 12:23:45 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2015-10-24-how-to-be-a-good-tech-lead/</guid>
+      <description>Transitioning from engineering to management/leadership is tough unless you understand the sacrifices you have to make.</description>
+    </item>
+    
+  </channel>
+</rss>

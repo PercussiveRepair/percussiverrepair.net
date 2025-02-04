@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PercussiveRepair.net</title>
+    <link>https://percussiverepair.net/posts/</link>
+    <description>Recent content in Posts on PercussiveRepair.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 27 Apr 2020 13:46:25 +0000</lastBuildDate><atom:link href="https://percussiverepair.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recording for Posterity</title>
+      <link>https://percussiverepair.net/posts/2020-04-27-recording-for-posterity/</link>
+      <pubDate>Mon, 27 Apr 2020 13:46:25 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2020-04-27-recording-for-posterity/</guid>
+      <description>This is a simple mantra I’ve used in many teams I worked in or led over the years:</description>
+    </item>
+    
+    <item>
+      <title>AWS Account Creation Automation &amp; Security</title>
+      <link>https://percussiverepair.net/posts/2018-09-14-aws-account-creation/</link>
+      <pubDate>Fri, 14 Sep 2018 13:46:25 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2018-09-14-aws-account-creation/</guid>
+      <description>It’s been a busy couple of years so, as is usual, my blog was left to languish.</description>
+    </item>
+    
+    <item>
+      <title>Traildash on ECS</title>
+      <link>https://percussiverepair.net/posts/2016-03-11-traildash-on-ecs/</link>
+      <pubDate>Fri, 11 Mar 2016 08:13:15 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2016-03-11-traildash-on-ecs/</guid>
+      <description>I’ve recently had some issues where I’ve had to investigate the AWS API usage on one of our accounts.</description>
+    </item>
+    
+    <item>
+      <title>How to be a Good Tech Lead</title>
+      <link>https://percussiverepair.net/posts/2015-10-24-how-to-be-a-good-tech-lead/</link>
+      <pubDate>Sat, 24 Oct 2015 12:23:45 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2015-10-24-how-to-be-a-good-tech-lead/</guid>
+      <description>Transitioning from engineering to management/leadership is tough unless you understand the sacrifices you have to make.</description>
+    </item>
+    
+    <item>
+      <title>The Operations Documentation Problem</title>
+      <link>https://percussiverepair.net/posts/2014-09-11-the-operations-documentation-problem/</link>
+      <pubDate>Thu, 11 Sep 2014 17:20:15 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-09-11-the-operations-documentation-problem/</guid>
+      <description>Documentation tends to be a polarising, all or nothing, topic in the Operations teams I have been a part of.</description>
+    </item>
+    
+    <item>
+      <title>Further Notes on SaltStack Monitoring</title>
+      <link>https://percussiverepair.net/posts/2014-05-03-further-notes-on-saltstack-monitoring/</link>
+      <pubDate>Sat, 03 May 2014 17:18:32 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-05-03-further-notes-on-saltstack-monitoring/</guid>
+      <description>A few weeks ago I started looking at SaltStack, my current config management package choice, as the central component of an open source componentised monitoring package.</description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch on AWS or How I learned to stop worrying and love the lucene index</title>
+      <link>https://percussiverepair.net/posts/2014-03-18-elasticsearch-on-aws-or-how-i-learned-to-stop-worrying-and-love-the-lucene-index/</link>
+      <pubDate>Tue, 18 Mar 2014 18:16:50 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-03-18-elasticsearch-on-aws-or-how-i-learned-to-stop-worrying-and-love-the-lucene-index/</guid>
+      <description>Ahh, Elasticsearch, the cause of, and solution to, all of lifes problems.</description>
+    </item>
+    
+    <item>
+      <title>Saltstack Monitoring</title>
+      <link>https://percussiverepair.net/posts/2014-02-15-saltstack-monitoring/</link>
+      <pubDate>Sat, 15 Feb 2014 18:11:33 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-02-15-saltstack-monitoring/</guid>
+      <description>I spoke recently at the Februrary London DevOps meetup about my adventures with solo DevOps and the SaltStack config management system ( Slides )</description>
+    </item>
+    
+    <item>
+      <title>CloudWatchr for AWS Instances</title>
+      <link>https://percussiverepair.net/posts/2014-01-13-cloudwatchr-for-aws-instances/</link>
+      <pubDate>Mon, 13 Jan 2014 18:07:38 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-01-13-cloudwatchr-for-aws-instances/</guid>
+      <description>For some time I’ve been using Cloudwatch as a supplement to my other graphing and monitoring packages, but I finally got tired of the poor UI and lack of customisation.</description>
+    </item>
+    
+  </channel>
+</rss>

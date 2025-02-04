@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monitoring on PercussiveRepair.net</title>
+    <link>https://percussiverepair.net/tags/monitoring/</link>
+    <description>Recent content in Monitoring on PercussiveRepair.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 03 May 2014 17:18:32 +0000</lastBuildDate><atom:link href="https://percussiverepair.net/tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Further Notes on SaltStack Monitoring</title>
+      <link>https://percussiverepair.net/posts/2014-05-03-further-notes-on-saltstack-monitoring/</link>
+      <pubDate>Sat, 03 May 2014 17:18:32 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-05-03-further-notes-on-saltstack-monitoring/</guid>
+      <description>A few weeks ago I started looking at SaltStack, my current config management package choice, as the central component of an open source componentised monitoring package.</description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch on AWS or How I learned to stop worrying and love the lucene index</title>
+      <link>https://percussiverepair.net/posts/2014-03-18-elasticsearch-on-aws-or-how-i-learned-to-stop-worrying-and-love-the-lucene-index/</link>
+      <pubDate>Tue, 18 Mar 2014 18:16:50 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-03-18-elasticsearch-on-aws-or-how-i-learned-to-stop-worrying-and-love-the-lucene-index/</guid>
+      <description>Ahh, Elasticsearch, the cause of, and solution to, all of lifes problems.</description>
+    </item>
+    
+  </channel>
+</rss>

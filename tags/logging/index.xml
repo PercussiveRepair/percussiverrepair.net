@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logging on PercussiveRepair.net</title>
+    <link>https://percussiverepair.net/tags/logging/</link>
+    <description>Recent content in Logging on PercussiveRepair.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 18 Mar 2014 18:16:50 +0000</lastBuildDate><atom:link href="https://percussiverepair.net/tags/logging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elasticsearch on AWS or How I learned to stop worrying and love the lucene index</title>
+      <link>https://percussiverepair.net/posts/2014-03-18-elasticsearch-on-aws-or-how-i-learned-to-stop-worrying-and-love-the-lucene-index/</link>
+      <pubDate>Tue, 18 Mar 2014 18:16:50 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-03-18-elasticsearch-on-aws-or-how-i-learned-to-stop-worrying-and-love-the-lucene-index/</guid>
+      <description>Ahh, Elasticsearch, the cause of, and solution to, all of lifes problems.</description>
+    </item>
+    
+  </channel>
+</rss>

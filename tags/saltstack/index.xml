@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SaltStack on PercussiveRepair.net</title>
+    <link>https://percussiverepair.net/tags/saltstack/</link>
+    <description>Recent content in SaltStack on PercussiveRepair.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 03 May 2014 17:18:32 +0000</lastBuildDate><atom:link href="https://percussiverepair.net/tags/saltstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Further Notes on SaltStack Monitoring</title>
+      <link>https://percussiverepair.net/posts/2014-05-03-further-notes-on-saltstack-monitoring/</link>
+      <pubDate>Sat, 03 May 2014 17:18:32 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-05-03-further-notes-on-saltstack-monitoring/</guid>
+      <description>A few weeks ago I started looking at SaltStack, my current config management package choice, as the central component of an open source componentised monitoring package.</description>
+    </item>
+    
+  </channel>
+</rss>

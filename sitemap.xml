@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://percussiverepair.net/</loc>
+    <lastmod>2020-04-27T13:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/</loc>
+    <lastmod>2020-04-27T13:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2020-04-27-recording-for-posterity/</loc>
+    <lastmod>2020-04-27T13:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/</loc>
+    <lastmod>2020-04-27T13:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/tech_leadership/</loc>
+    <lastmod>2020-04-27T13:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/aws/</loc>
+    <lastmod>2018-09-14T13:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2018-09-14-aws-account-creation/</loc>
+    <lastmod>2018-09-14T13:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/security/</loc>
+    <lastmod>2018-09-14T13:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/cloudtrail/</loc>
+    <lastmod>2016-03-11T08:13:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/traildash/</loc>
+    <lastmod>2016-03-11T08:13:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2016-03-11-traildash-on-ecs/</loc>
+    <lastmod>2016-03-11T08:13:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2015-10-24-how-to-be-a-good-tech-lead/</loc>
+    <lastmod>2015-10-24T12:23:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/documentation/</loc>
+    <lastmod>2014-09-11T17:20:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/operations/</loc>
+    <lastmod>2014-09-11T17:20:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2014-09-11-the-operations-documentation-problem/</loc>
+    <lastmod>2014-09-11T17:20:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2014-05-03-further-notes-on-saltstack-monitoring/</loc>
+    <lastmod>2014-05-03T17:18:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/monitoring/</loc>
+    <lastmod>2014-05-03T17:18:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/saltstack/</loc>
+    <lastmod>2014-05-03T17:18:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/elasticsearch/</loc>
+    <lastmod>2014-03-18T18:16:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2014-03-18-elasticsearch-on-aws-or-how-i-learned-to-stop-worrying-and-love-the-lucene-index/</loc>
+    <lastmod>2014-03-18T18:16:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/logging/</loc>
+    <lastmod>2014-03-18T18:16:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2014-02-15-saltstack-monitoring/</loc>
+    <lastmod>2014-02-15T18:11:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/tags/cloudwatch/</loc>
+    <lastmod>2014-01-13T18:07:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/posts/2014-01-13-cloudwatchr-for-aws-instances/</loc>
+    <lastmod>2014-01-13T18:07:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://percussiverepair.net/talks/</loc>
+  </url>
+  
+</urlset>

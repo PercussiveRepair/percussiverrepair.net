@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on PercussiveRepair.net</title>
+    <link>https://percussiverepair.net/tags/documentation/</link>
+    <description>Recent content in Documentation on PercussiveRepair.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 11 Sep 2014 17:20:15 +0000</lastBuildDate><atom:link href="https://percussiverepair.net/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Operations Documentation Problem</title>
+      <link>https://percussiverepair.net/posts/2014-09-11-the-operations-documentation-problem/</link>
+      <pubDate>Thu, 11 Sep 2014 17:20:15 +0000</pubDate>
+      
+      <guid>https://percussiverepair.net/posts/2014-09-11-the-operations-documentation-problem/</guid>
+      <description>Documentation tends to be a polarising, all or nothing, topic in the Operations teams I have been a part of.</description>
+    </item>
+    
+  </channel>
+</rss>
