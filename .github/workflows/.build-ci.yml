@@ -18,7 +18,7 @@ jobs:
         run: |
           cd reactions
           tree -H '.' -L 1 --noreport --dirsfirst -T 'Index of Reactions' -s -D --charset utf-8 -I "index.html" -I "style.css" -o index.html
-          sed -i '/<head>/<head>\n<link rel="stylesheet" href="https:\/\/cdn.simplecss.org\/simple.min.css">/' index.html
+          sed '|<head>|<head>\n<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">|' index.html
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@master
         with:
