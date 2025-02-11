@@ -1,0 +1,26 @@
+name: Build and Deploy
+on:
+  push:
+      branches:
+        - main
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      TERM: xterm
+      TZ: Europe/London
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+      - name: Install & Build 🏗️
+        run: |
+          cd reactions
+          tree -H '.' -L 1 --noreport --dirsfirst -T 'Index of Reactions' -s -D --charset utf-8 -I "index.html" -o index.html
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.NYUM_GITHUB_TOKEN }}
+          commit_message: Build commit & push
+
